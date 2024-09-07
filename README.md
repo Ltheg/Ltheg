@@ -1,27 +1,14 @@
 <h1 align="left">Hey 👋,  I'm Logan</h1>
-
 ###
-
 <p align="left">📚 Computer Science Student @ University of Michigan<br><br>👨‍💻 Software Engineer Intern @ Veradigm</p>
-
-###
-
 <h2 align="left">About me</h2>
-
 ###
-
 <p align="left">I'm interested in ...<br>- 🕸️ Web development <br>-  💻 Backend development<br>- 🤖 AI / ML<br><br>When I'm not coding I'm ...<br>- 🏃‍♂️ Running / 🏋️‍♂️ Lifting<br>- 🛫 Travelling<br>- 🏀 Hooping</p>
-
 ###
-
 <h2 align="left">I code with</h2>
-
 ###
-
 <p align="left">Programming Languages</p>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
