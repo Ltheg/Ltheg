@@ -1,13 +1,19 @@
-<h1 align="left">Hey 👋,  I'm Logan</h1>
-<p align="left">📚 Computer Science Student @ University of Michigan<br><br>👨‍💻 Software Engineer Intern @ Veradigm</p>
-<h2 align="left">About me</h2>
+<h2 align="left">Hey 👋,  I'm Logan</h2>
+
 ###
-<p align="left">I'm interested in ...<br>- 🕸️ Web development <br>-  💻 Backend development<br>- 🤖 AI / ML<br><br>When I'm not coding I'm ...<br>- 🏃‍♂️ Running / 🏋️‍♂️ Lifting<br>- 🛫 Travelling<br>- 🏀 Hooping</p>
+
+<h4 align="left">📚 Computer Science Student @ University of Michigan<br>👨‍💻 Software Engineer Intern @ Veradigm</h4>
+
 ###
-<h2 align="left">I code with</h2>
+
+<h4 align="left">I'm interested in ...<br>- 🕸️ Web development <br>-  💻 Backend development<br>- 🤖 AI / ML</h4>
+
 ###
-<p align="left">Programming Languages</p>
+
+<h4 align="left">Programming Languages</h4>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -24,7 +30,7 @@
 
 ###
 
-<p align="left">Frameworks / Technologies / Libraries</p>
+<h4 align="left">Frameworks / Technologies / Libraries</h4>
 
 ###
 
@@ -50,7 +56,7 @@
 
 ###
 
-<p align="left">Developer Tools</p>
+<h4 align="left">Developer Tools</h4>
 
 ###
 
