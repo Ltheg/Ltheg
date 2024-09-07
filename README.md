@@ -1,19 +1,6 @@
 <h2 align="left">Hey 👋,  I'm Logan</h2>
-
-###
-
 <h4 align="left">📚 Computer Science Student @ University of Michigan<br>👨‍💻 Software Engineer Intern @ Veradigm</h4>
-
-###
-
-<h4 align="left">I'm interested in ...<br>- 🕸️ Web development <br>-  💻 Backend development<br>- 🤖 AI / ML</h4>
-
-###
-
 <h4 align="left">Programming Languages</h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -27,13 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-###
-
 <h4 align="left">Frameworks / Libraries / Technologies</h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -63,5 +44,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
