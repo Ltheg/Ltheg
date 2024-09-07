@@ -23,7 +23,7 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" alt="less logo"  />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="30" alt="tailwindcss logo"  />
   <img width="9" />
   <img src="https://www.ui-themes.com/content/images/size/w600/2024/01/cover-flask.jpg" height="30" alt="flask logo"  />
   <img width="9" />
