@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋,  I'm Logan</h1>
-###
 <p align="left">📚 Computer Science Student @ University of Michigan<br><br>👨‍💻 Software Engineer Intern @ Veradigm</p>
 <h2 align="left">About me</h2>
 ###
