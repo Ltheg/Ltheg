@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋,  I'm Logan</h2>
 
-<h4 align="left">📚 Computer Science Student @ University of Michigan<br>👨‍💻 Software Engineer Intern @ Veradigm</h4>
+<h4 align="left">📚 Computer Science Student @ University of Michigan<br>💻 Incoming SWE Intern @ Tanium<br>👨‍💻 Former SWE Intern @ Veradigm</h4>
 <h4 align="left">Programming Languages</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
