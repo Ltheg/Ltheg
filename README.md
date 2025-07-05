@@ -1,33 +1,77 @@
-## Hi 👋, I'm Logan
+<h2 align="left">Hi 👋, I'm Logan</h2>
 
-📚 Computer Science Student @ University of Michigan  
-💻 Incoming SWE Intern @ Tanium  
-👨‍💻 Former SWE Intern @ Veradigm
-
----
-
-### 🛠️ Programming Languages  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only =30x30)  
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg =30x30)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =30x30)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =30x30)
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =30x30)
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =30x30)
+<h4 align="left">
+  📚 Computer Science Student @ University of Michigan<br>
+  💻 Incoming SWE Intern @ Tanium<br>
+  👨‍💻 Former SWE Intern @ Veradigm
+</h4>
 
 ---
 
-### ⚙️ Frameworks / Libraries / Tools  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg =30x30)
-![Ember](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg =30x30)
-![Less](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg =30x30)
-![Tailwind](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png =30x30)
-![Flask](https://www.ui-themes.com/content/images/size/w600/2024/01/cover-flask.jpg =30x30)
-![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =30x30)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg =30x30)
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg =30x30)
-![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg =30x30)
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg =30x30)
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg =30x30)
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg =30x30)
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg =30x30)
-![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg =30x30)
+<h4>🛠️ Programming Languages</h4>
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+</span>
+
+---
+
+<h4>⚙️ Frameworks / Libraries / Tools</h4>
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="30" alt="Ember"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" alt="Less"/>
+</span>
+<span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="Tailwind"/>
+</span>
+<span>
+  <img src="https://www.ui-themes.com/content/images/size/w600/2024/01/cover-flask.jpg" height="30" alt="Flask"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/>
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"/>
+</span>
