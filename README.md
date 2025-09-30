@@ -9,11 +9,11 @@
 ### 🧠 Skills & Technologies
 
 **💻 Programming Languages:**  
-C++, C, Python, JavaScript, HTML, CSS
+C++, C, Python, Typescript, JavaScript, HTML, CSS
 
 **🧰 Frameworks / Libraries:**  
 React, Ember.js, Flask, Node.js, Tailwind CSS, Less
 
 **🗄️ Tools / Technologies:**  
-PostgreSQL, Pandas, PyTorch, Jupyter, Docker, AWS, Figma, VS Code
+PostgreSQL, Pandas, PyTorch, Jupyter, Docker, AWS, Figma, Cursor, Claude Code
 
