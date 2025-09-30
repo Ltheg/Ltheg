@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Logan
 
+💻 SWE @ Tanium  
 🎓 Computer Science Student @ University of Michigan  
-💻 Incoming SWE Intern @ Tanium  
 👨‍💻 Former SWE Intern @ Veradigm  
 
 ---
